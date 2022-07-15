@@ -1,3 +1,2 @@
 numpy            ==1.20.3
-matplotlib.pyplot
-math             
+matplotlib.pyplot==3.4.3
